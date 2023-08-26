@@ -1,3 +1,3 @@
 from wrapper.choose import *
 
-print(gum_file())
+print(gum_filter(["aaa", "abb", "ccc"]))
